@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou um programador Front-End iniciante com muita ambição e vontade de vencer.
+Sou um programador Full-stack iniciante com muita ambição e vontade de vencer.
 <br>
 Me encontre onde nos interessa:
 <br>
