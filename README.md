@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou um programador Full-stack iniciante com muita ambição e vontade de vencer.
+Sou um programador Full-Stack Jr.
 <br>
 Me encontre onde nos interessa:
 <br>
