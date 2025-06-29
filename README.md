@@ -5,7 +5,7 @@ Sou um programador Full-Stack Jr.
 Me encontre onde nos interessa:
 <br>
 <br>
-<a href="www.linkedin.com/in/joão-vítor-santos-da-silva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/><a/> 
+<a href="https://www.linkedin.com/in/joão-vítor-santos-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkedin"/><a/> 
 
 Skills:
 <br>
